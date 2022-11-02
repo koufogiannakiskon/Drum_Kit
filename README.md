@@ -3,6 +3,8 @@
 ## Description
 In this project I created an interactive Drum Kit page, with 9 different sounds.
 <hr/>
+Link:  https://koufogiannakiskon.github.io/Drum_Kit
+<hr/>
 Preview of the Website:
 <img src="Drum_Kit.png" width=500/>
 <hr/>
