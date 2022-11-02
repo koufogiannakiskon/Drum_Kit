@@ -28,7 +28,7 @@ html {
   border-radius: 0.5rem;
   background: rgba(0, 0, 0, 0.4);
   text-shadow: 0 0 0.5rem black;
-  transition: all 0.07s ease;a
+  transition: all 0.07s ease;
   cursor: pointer;
 }
 
