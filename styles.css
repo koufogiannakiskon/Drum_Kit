@@ -28,7 +28,14 @@ html {
   border-radius: 0.5rem;
   background: rgba(0, 0, 0, 0.4);
   text-shadow: 0 0 0.5rem black;
-  transition: all 0.07s ease;
+  transition: all 0.07s ease;a
+  cursor: pointer;
+}
+
+.key:hover {
+  opacity: 0.8;
+  border: 0.4rem outset rgba(255, 198, 0, 0.9);
+  transition: all 0.1s;
 }
 
 .sound {
